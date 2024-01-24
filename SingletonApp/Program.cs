@@ -1,4 +1,5 @@
-﻿using SingletonExample;
+﻿// See https://aka.ms/new-console-template for more information
+using SingletonExample;
 
 Count c1 = Count.getInstance();
 Count c2 = Count.getInstance();
